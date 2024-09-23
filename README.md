@@ -8,7 +8,7 @@ I love coding in JavaScript, especially using React.js and Vue.js, and I'm also 
 - **Minecraft Server Website:** A Vue.js-based project with integrated itemshop for the Minecraft community.
 
 ### My Skills:
-- Frontend Development:** React.js, Vue.js, HTML, CSS
+- **Frontend Development:** React.js, Vue.js, HTML, CSS
 - **Backend Development:** Node.js, Express
 - **Database:** MongoDB, Firebase
 - **Game Development:** Minecraft server plugins and mods
