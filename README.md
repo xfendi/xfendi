@@ -5,7 +5,7 @@ I love coding in JavaScript, especially using React.js and Vue.js, and I'm also 
 
 ### Current Projects:
 - **Sitezy:** A web app for building websites and online stores. Focused on simplicity and user-friendly interfaces.
-- **Minecraft Server Website:** A Vue.js-based project with integrated itemshop for the Minecraft community.
+- **Fendis Digital - Digital Dropshipping Store:** A React.js based project with integrated stripe payments and modern looking UI.
 - **Yolobot:** A public Discord bot built using **Discord.js**, aiming to provide helpful utilities and fun features for various Discord communities.
 
 ### My Skills:
@@ -16,7 +16,8 @@ I love coding in JavaScript, especially using React.js and Vue.js, and I'm also 
 - **Discord Bot Development:** **Discord.js**
 
 ### Fun Fact:
-I love playing **Minecraft** and coding cool mods or plugins in my free time.
+I love playing **Minecraft** and coding cool mods or plugins or making own server in my free time.
+
 I'm always looking for new challenges and learning opportunities in both coding and gaming!
 
 Got any questions or want to collaborate? Feel free to reach out or check out my repos below!
