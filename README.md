@@ -1,4 +1,4 @@
-## Hey there! 👋 Hey, I'm Michał, known as xFendi
+## Hey there! 👋 Hey, I'm Michał, known as Fendis or fendziorr
 ### About Me
 I'm a passionate **15-year-old** developer from **Poland** working on various web projects, from digital product platforms to Minecraft server websites.
 I love coding in JavaScript, especially using React.js and Vue.js, and I'm also exploring the world of game development.
