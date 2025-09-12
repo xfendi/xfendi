@@ -7,14 +7,14 @@ I vibe hard with **JavaScript**, especially when I’m building stuff with **Rea
 
 ### What I’m cooking rn 🍳:
 
-* **Sitezy** – My main grind. A smooth af web app for building websites + online stores (digital products, Stripe payments, clean UI – the whole package).
-* **Felix Lab** – A sleek store for digital products & courses, dark mode FTW. Powered by React + Stripe.
-* **Yolo Bot** – A public Discord bot built with **Discord.js**. Packed with useful tools and fun stuff for servers of all kinds.
 * **frozi.lol** – A platform for creating modern, customizable bio-pages to meet all your digital needs.
+* **Yazzi App** - Social Media & Music focused app that connects music with friends and sharing your energy & vibe!
+* **Sitezy** – A smooth af web app for building websites + online stores (digital products, Stripe payments, clean UI – the whole package).
+* **Yolo Bot** – A public Discord bot built with **Discord.js**. Packed with useful tools and fun stuff for servers of all kinds.
 
 ### Skillz I got in my toolbox 🧰:
 
-* **Frontend Magic:** React.js, Vue.js, HTML, CSS (I make pixels behave 💅)
+* **Frontend Magic:** Next.js, React.js, Vue.js, HTML, CSS (I make pixels behave 💅)
 * **Backend Power:** Node.js, Express (API wizard type beat)
 * **Databases:** MongoDB, Firebase
 * **Payments? EZ:** Fully integrated **Stripe** setups
