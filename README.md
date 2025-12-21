@@ -1,4 +1,4 @@
-# Hey! 👋 I'm FROZIAK (aka fendziorr / frozi)
+## Hey! 👋 I'm FROZIAK (aka fendziorr / frozi)
 
 ### About me
 
@@ -16,4 +16,4 @@ Big fan of **JavaScript**, especially **React.js** and **Next.js** – that’s 
 * **Payments:** Stripe setups
 
 Always down to learn new stuff or collab on cool projects.
-Hit me up via DMs or check my repos!
+Check out my bio page **[here](https://frozi.lol/fendziorr)** or hit me up via DMs on **[discord](https://discord.com/users/804372572928999434)**!
