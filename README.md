@@ -1,22 +1,19 @@
-## Yo! 👋 I'm "Fro zi ak" (aka fendziorr)
+# Hey! 👋 I'm FROZIAK (aka fendziorr / frozi)
 
-### Who dis?
+### About me
 
-I’m a **16 y/o** dev from **Poland** who’s been deep in the code trenches, cookin’ up everything from SaaS platforms to Discord bots to Minecraft server sites.
-I vibe hard with **JavaScript**, especially when I’m building stuff with **React.js** and **Next.js**. That’s my jam fr.
+16 y/o dev from Poland. I mess around with everything from SaaS apps to Discord bots to Minecraft server sites.
+Big fan of **JavaScript**, especially **React.js** and **Next.js** – that’s my playground.
 
-### What I’m cooking rn 🍳:
+### What I’m building rn 🍳
+* **[frozi.lol](https://frozi.lol)** – easy modern bio pages.
 
-* **frozi.lol** – A platform for creating modern, customizable bio-pages to meet all your digital needs.
-* **Sitezy** – A smooth af web app for building simple websites + online stores (digital products with Stripe payments).
-* **Yolo Bot** – A public Discord bot built with **Discord.js**. Packed with useful tools and fun stuff for servers of all kinds.
-
-### Skillz I got in my toolbox 🧰:
+### Skills 🧰
 
 * **Frontend:** Next.js, React.js, Vue.js, HTML, CSS
 * **Backend:** Node.js, Express
-* **Databases:** MongoDB, Firebase, Supabase
-* **Payments:** Fully integrated **Stripe** setups
+* **Databases:** MongoDB, Firebase, Supabase, Convex
+* **Payments:** Stripe setups
 
-Always down to learn something new or build something sick with cool peeps.
-Got questions? Wanna collab? Slide into my DMs or peep the repos below.
+Always down to learn new stuff or collab on cool projects.
+Hit me up via DMs or check my repos!
