@@ -1,19 +1,21 @@
-## Hey! 👋 I'm FROZIAK (aka fendziorr / frozi)
+## Hey, i'm FROZIAK 👋
 
-### About me
+16 y/o dev from poland. i build saas apps, discord bots, minecraft sites so basically
+whatever sounds fun. big fan of **javascript**, **next.js** is my go-to.
 
-16 y/o dev from Poland. I mess around with everything from SaaS apps to Discord bots to Minecraft server sites.
-Big fan of **JavaScript**, especially **React.js** and **Next.js** – that’s my playground.
+### What I’m working on 🍳
 
-### What I’m building rn 🍳
-* **[frozi.lol](https://frozi.lol)** – easy modern bio pages.
+- **[frozi.lol](https://frozi.lol)** – bio link platform but actually good. modern, fast, feature-rich.
+- **[lurk.pics](https://lurk.pics)** – image hosting built for discord & sharex users who just want it to work.
+- **[whimz.app](https://whimz.app)** – encrypted messaging for people who actually care about their privacy.
 
-### Skills 🧰
+### Stack 🧰
 
-* **Frontend:** Next.js, React.js, Vue.js, HTML, CSS
-* **Backend:** Node.js, Express
-* **Databases:** MongoDB, Firebase, Supabase, Convex
-* **Payments:** Stripe setups
+- **Frontend:** Next.js, React.js, Vue.js, HTML, CSS
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, Firebase, Supabase, Convex
+- **Payments:** Stripe
 
-Always down to learn new stuff or collab on cool projects.
-Check out my bio page **[here](https://frozi.lol/fendziorr)** or hit me up via DMs on **[discord](https://discord.com/users/804372572928999434)**!
+Always down to collab on cool projects or just talk dev stuff.
+Find me on **[frozi.lol/fendziorr](https://frozi.lol/fendziorr)** or dm me on **[discord](https://discord.com/users/804372572928999434)**!
