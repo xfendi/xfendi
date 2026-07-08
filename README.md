@@ -8,6 +8,7 @@ whatever sounds fun. big fan of **javascript**, **next.js** is my go-to.
 - **[frozi.lol](https://frozi.lol)** – bio link platform but actually good. modern, fast, feature-rich.
 - **[lurk.pics](https://lurk.pics)** – image hosting built for discord & sharex users who just want it to work.
 - **[whimz.app](https://whimz.app)** – encrypted messaging for people who actually care about their privacy.
+- **Raple** – Polish rap culture quiz app. test your knowledge on artists, lyrics, features, and albums, climb the leaderboard.
 
 ### Stack 🧰
 
