@@ -19,4 +19,5 @@ Full-stack dev from Poland. I build SaaS apps, Discord bots, and web tools, most
 - **Payments:** Stripe
 
 Find me on **[frozi.lol/fendziorr](https://frozi.lol/fendziorr)** or DM me on **[Discord](https://discord.com/users/804372572928999434)**!
+
 All my projects in one place: **[yololabs.site](https://yololabs.site)**
